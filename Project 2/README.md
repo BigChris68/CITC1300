@@ -1,7 +1,5 @@
 # CITC 1300 upload
 
-<h2>Project List</h2>
+<h1>Project List</h1>
 
-<ul>
-    <li><a href="lab2/index.html" target="_blank">Lab 2</a></li>
-</ul>
+<a href="Project 2/index.html" target="_blank">Project 2</a>
