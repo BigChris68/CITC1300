@@ -1,5 +1,4 @@
-## CITC 1300 upload
+# Citc1300
+<h1> Project List</h1>
 
-<h1>Project List</h1>
-
-<a href="Project 2/index.html" target="_blank">Project 2</a>
+<a href="Project 2/imdex.html" trget="_blank"> Project 2</a>
