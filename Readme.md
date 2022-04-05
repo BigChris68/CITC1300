@@ -1,4 +1,4 @@
-# CITC 1300 upload
+## CITC 1300 upload
 
 <h1>Project List</h1>
 
