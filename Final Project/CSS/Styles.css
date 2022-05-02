@@ -124,14 +124,14 @@ header h1 {
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
-    flex-direction: row;
+    
 }
 
 .col h2 {
     text-align: center;
     font-size: 2em;
     font-family: 'Comic Neue', cursive;
-    flex-direction: row;
+    
 }
 
 main H3 {
@@ -163,7 +163,7 @@ footer {
 @media(min-width: 1024px) {
  #flex {
      display:flex;
-     flex-direction: row;
+     
  }
  .col {
      margin: 20px;
